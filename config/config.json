@@ -1,0 +1,16 @@
+{
+    "feed":  {
+                 "title":  "副刊：小小报亭",
+                 "description":  "经典文学旧杂志推送",
+                 "link":  "https://github.com/ZHENHUA001A307/the-little-newsstand",
+                 "rss_size":  20
+             },
+    "epub":  {
+                 "reading_speed":  300,
+                 "image_base_url":  "https://raw.githubusercontent.com/ZHENHUA001A307/the-little-newsstand/main/image/"
+             },
+    "csv":  {
+                "source_file":  "data/source.csv",
+                "has_header":  true
+            }
+}
